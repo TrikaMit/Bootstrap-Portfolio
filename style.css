@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/doodles.png");
+    margin: 0px;
+    height: 100%;
+    margin-right:-10px;
+    padding-right:0px;
+    flex:1;
+}
+.bg-white{
+    background: white;
+}
+.bg-myinfo{
+    background: white;
+    border: solid 0.5px #ddd;
+}
+.nav-item{
+    margin-right: 50px;
+    background: white;
+}
+#nav:hover{
+    background: #4aaaa5;
+    color: white !important;
+}
+#border{
+    border: none;
+    height: 2px;
+    color: #cccccc;
+    background-color: #cccccc;
+}
+#heading{
+    color: #4aaaa5;
+}
+.border-bottom{
+    border: 2px;
+}
+#itme{
+    width:200px;
+    height:200px;
+}
+
+img{
+    width:290px; 
+    height:218px;
+}
+.card-body{
+    background: #4aaaa5;
+}
+.btn-info{
+    background: #4aaaa5;
+}
+
+.footer {
+    position:-webkit-sticky;
+    position:relative;
+    bottom:0;
+    width: 110%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #666;
+    border-top: #4aaaa5 10px solid;
+    margin-right:-10px;
+    padding-right:0px;
+}
+
