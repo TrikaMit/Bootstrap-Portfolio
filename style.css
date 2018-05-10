@@ -6,6 +6,13 @@ body {
     padding-right:0px;
     flex:1;
 }
+a{
+    color:white;
+}
+a:hover{
+    color:white;
+    font-weight: bolder;
+}
 .bg-white{
     background: white;
 }
