@@ -13,6 +13,10 @@ a:hover{
     color:white;
     font-weight: bolder;
 }
+.card-text{
+    color:white;
+}
+
 .bg-white{
     background: white;
 }
